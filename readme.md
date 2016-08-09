@@ -8,7 +8,7 @@ Follow the steps above to run this project on your computer.
 
 - Clone this repository
 
-`git clone <path>`
+`git clone https://github.com/IonicRio/ApiTips.git`
 
 - Navigate to folder `ApiTips`
 
